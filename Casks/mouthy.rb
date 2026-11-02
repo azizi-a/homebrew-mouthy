@@ -1,6 +1,6 @@
 cask "mouthy" do
-  version "0.4.1"
-  sha256 "183dfeb406dc85f92d3e527d21299eab1bf40eabdb1325185c10523561570c2e"
+  version "0.5.0"
+  sha256 "c59f96d209a017e3030d08842cad682fe5030e33df551d431d29e779e2b56393"
 
   url "https://github.com/azizi-a/mouthy/releases/download/v#{version}/Mouthy_#{version}_aarch64.dmg"
   name "Mouthy"
